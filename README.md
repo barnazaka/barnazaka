@@ -1,44 +1,40 @@
 # Hi 👋, I'm barnazaka
 
-Welcome — this is your GitHub profile README. Edit this file anytime to customize what visitors see on your profile.
+I build web and blockchain apps, developer tools, and small utilities that help automate workflows and improve user experiences.
 
-I build things: [Short tagline — e.g., "scalable backend systems and developer tools"].
+Currently: working on [Portfolio](https://github.com/barnazaka/Portfolio) — redesigning my portfolio and consolidating my best projects.
 
-Currently: working on MyProject — replace this with links to your top repositories.
+I contributed to 10 projects last year.
 
 ## About me
-- 🔭 I’m currently working on: [ProjectName](https://github.com/yourorg/project)
-- 🌱 I’m learning: Distributed systems, Rust, and ML ops
-- 👯 I’m open to collaborating on: developer tooling, APIs, infra
-- 💬 Ask me about: system design, Node.js/TypeScript, CI/CD
-- 📫 Reach me: your.email@example.com
-- ⚡ Fun fact: I love building tiny CLI tools that automate boring stuff
+- 🔭 I’m currently working on: [Portfolio](https://github.com/barnazaka/Portfolio)
+- 🌱 I’m learning: on-chain privacy tech, web3 UX, and modern frontend frameworks
+- 👯 I’m open to collaborating on: web apps, bots, wallets, and proof-of-concept blockchain integrations
+- ��� Ask me about: JavaScript/TypeScript, small backend systems, CI/CD
+- 📫 Reach me: barnazaka@gmail.com
+- ⚡ Fun fact: I enjoy automating repetitive tasks and building helpful CLI tools
 
 ## Highlight projects
-- [Awesome-Project](https://github.com/yourorg/awesome-project) — One-line description of what it does and why it matters.
-- [Library-X](https://github.com/yourorg/library-x) — Used by N teams to solve Y.
-- [Tool-Y](https://github.com/yourorg/tool-y) — CLI for automating Z.
+- [Portfolio](https://github.com/barnazaka/Portfolio) — Personal site and showcase of projects.
+- [maidride](https://github.com/barnazaka/maidride) — Ride/booking app (mobile/web).
+- [ZKShield](https://github.com/barnazaka/ZKShield) — Zero-knowledge / privacy-related project.
+- [B-wallet](https://github.com/barnazaka/B-wallet) — Wallet-related project, blockchain integrations.
+- [calmbot](https://github.com/barnazaka/calmbot) — Chatbot / automation bot.
 
 ## GitHub Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=barnazaka&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barnazaka&layout=compact&theme=radical)
 
-## Latest blog posts
-- [Post Title 1](https://yourblog.com/post-1) — short 1-line summary
-- [Post Title 2](https://yourblog.com/post-2) — short 1-line summary
-
 ## Skills & Tools
-- Languages: TypeScript, Python, Go
-- Tools & Platforms: Docker, Kubernetes, AWS, GitHub Actions
-- Dev practices: TDD, CI/CD, observability
+- Languages: JavaScript, TypeScript, Python
+- Tools & Platforms: Node.js, Docker, GitHub Actions, basic web3 tooling
+- Dev practices: CI/CD, small-scope TDD, automation
 
 ## Connect
-- 🔗 Website: https://your-website.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- 💬 Email: your.email@example.com
+- 🔗 Portfolio: https://github.com/barnazaka/Portfolio
+- ✉️ Email: barnazaka@gmail.com
+- GitHub: https://github.com/barnazaka
 
 ---
 
