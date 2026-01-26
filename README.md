@@ -2,12 +2,12 @@
 
 I build web and blockchain apps, developer tools, and small utilities that help automate workflows and improve user experiences.
 
-Currently: working on [Portfolio](https://github.com/barnazaka/calmbot) — helping people with trauma caused by war or childhood abuse.
+Currently: working on [Calmbot](https://github.com/barnazaka/calmbot) — helping people with trauma caused by war or childhood abuse.
 
 I contributed to 10 projects last year.
 
 ## About me
-- 🔭 I’m currently working on: [Portfolio](https://github.com/barnazaka/calmbot)
+- 🔭 I’m currently working on: [Calmbot](https://github.com/barnazaka/calmbot)
 - 🌱 I’m learning: on-chain privacy tech, web3 UX, and modern frontend frameworks
 - 👯 I’m open to collaborating on: web apps, bots, wallets, and proof-of-concept blockchain integrations
 - ��� Ask me about: JavaScript/TypeScript, small backend systems, CI/CD
