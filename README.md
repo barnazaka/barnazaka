@@ -2,12 +2,12 @@
 
 I build web and blockchain apps, developer tools, and small utilities that help automate workflows and improve user experiences.
 
-Currently: working on [Portfolio](https://github.com/barnazaka/Portfolio) — redesigning my portfolio and consolidating my best projects.
+Currently: working on [Portfolio](https://github.com/barnazaka/calmbot) — helping people with trauma caused by war or childhood abuse.
 
 I contributed to 10 projects last year.
 
 ## About me
-- 🔭 I’m currently working on: [Portfolio](https://github.com/barnazaka/Portfolio)
+- 🔭 I’m currently working on: [Portfolio](https://github.com/barnazaka/calmbot)
 - 🌱 I’m learning: on-chain privacy tech, web3 UX, and modern frontend frameworks
 - 👯 I’m open to collaborating on: web apps, bots, wallets, and proof-of-concept blockchain integrations
 - ��� Ask me about: JavaScript/TypeScript, small backend systems, CI/CD
@@ -16,7 +16,7 @@ I contributed to 10 projects last year.
 
 ## Highlight projects
 - [Portfolio](https://github.com/barnazaka/Portfolio) — Personal site and showcase of projects.
-- [maidride](https://github.com/barnazaka/maidride) — Ride/booking app (mobile/web).
+- [maidride](https://github.com/barnazaka/maidride) — Ride/booking app for Maiduguri city (mobile/web).
 - [ZKShield](https://github.com/barnazaka/ZKShield) — Zero-knowledge / privacy-related project.
 - [B-wallet](https://github.com/barnazaka/B-wallet) — Wallet-related project, blockchain integrations.
 - [calmbot](https://github.com/barnazaka/calmbot) — Chatbot / automation bot.
@@ -27,7 +27,7 @@ I contributed to 10 projects last year.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barnazaka&layout=compact&theme=radical)
 
 ## Skills & Tools
-- Languages: JavaScript, TypeScript, Python
+- Languages: JavaScript, TypeScript, Python, Solidity, Daml, Rust, Vyper, Move, Go, Noir, Leo, Wasm
 - Tools & Platforms: Node.js, Docker, GitHub Actions, basic web3 tooling
 - Dev practices: CI/CD, small-scope TDD, automation
 
