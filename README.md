@@ -66,8 +66,7 @@ I’m a developer focused on **shipping production systems**, not demos.
 
 <div align="center">
 
-<a href="https://github.com/barnazaka/aleo-simple-login">
-</a>
+https://github.com/barnazaka/aleo-simple-login
 
 <a href="https://github.com/barnazaka/snet-onboarding">
 </a>
