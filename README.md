@@ -64,36 +64,36 @@ I’m a developer focused on **shipping production systems**, not demos.
 
 ## FEATURED PROJECTS
 
-<!-- ========================= -->
-<!-- CUSTOM SVG REPO CARDS -->
-<!-- ========================= -->
-
 <div align="center">
 
-<a href="[https://github.com/barnazaka/](https://github.com/barnazaka/aleo-simple-login)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=WTII&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=6366F1" />
+<a href="https://github.com/barnazaka/aleo-simple-login">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=aleo-simple-login&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=6366F1"
+  />
 </a>
 
-<a href="[https://github.com/barnazaka/maidride](https://github.com/barnazaka/snet-onboarding)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=maidride&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22D3EE" />
+<a href="https://github.com/barnazaka/snet-onboarding">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=snet-onboarding&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22D3EE"
+  />
 </a>
 
-<a href="[https://github.com/barnazaka/ZKShield](https://github.com/barnazaka/calmbot)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=ZKShield&theme=transparent&hide_border=true&title_color=6366F1&icon_color=22C55E" />
+<a href="https://github.com/barnazaka/calmbot">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=calmbot&theme=transparent&hide_border=true&title_color=6366F1&icon_color=22C55E"
+  />
 </a>
 
-<a href="[https://github.com/barnazaka/calmbot](https://github.com/barnazaka/calmbot)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=calmbot&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22C55E" />
+<a href="https://github.com/barnazaka/WTII">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=WTII&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22C55E"
+  />
 </a>
 
 </div>
 
-> Repo cards are SVG-based and optimized for mobile.  
-> If GitHub rate-limits, they gracefully reload.
+> SVG repo cards. Mobile-safe. GitHub-friendly.
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22c55e&height=3"/>
 
 ## STACK & TOOLS
 
