@@ -70,19 +70,19 @@ I’m a developer focused on **shipping production systems**, not demos.
 
 <div align="center">
 
-<a href="https://github.com/barnazaka/WTII">
+<a href="[https://github.com/barnazaka/](https://github.com/barnazaka/aleo-simple-login)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=WTII&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=6366F1" />
 </a>
 
-<a href="https://github.com/barnazaka/maidride">
+<a href="[https://github.com/barnazaka/maidride](https://github.com/barnazaka/snet-onboarding)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=maidride&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22D3EE" />
 </a>
 
-<a href="https://github.com/barnazaka/ZKShield">
+<a href="[https://github.com/barnazaka/ZKShield](https://github.com/barnazaka/calmbot)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=ZKShield&theme=transparent&hide_border=true&title_color=6366F1&icon_color=22C55E" />
 </a>
 
-<a href="https://github.com/barnazaka/calmbot">
+<a href="[https://github.com/barnazaka/calmbot](https://github.com/barnazaka/calmbot)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=calmbot&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22C55E" />
 </a>
 
