@@ -68,14 +68,11 @@ I’m a developer focused on **shipping production systems**, not demos.
 
 https://github.com/barnazaka/aleo-simple-login
 
-<a href="https://github.com/barnazaka/snet-onboarding">
-</a>
+https://github.com/barnazaka/snet-onboarding
 
-<a href="https://github.com/barnazaka/calmbot">
-</a>
+https://github.com/barnazaka/calmbot
 
-<a href="https://github.com/barnazaka/WTII">
-</a>
+href="https://github.com/barnazaka/WTII
 
 </div>
 
