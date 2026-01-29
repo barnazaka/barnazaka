@@ -72,7 +72,7 @@ https://github.com/barnazaka/snet-onboarding
 
 https://github.com/barnazaka/calmbot
 
-href="https://github.com/barnazaka/WTII
+https://github.com/barnazaka/WTII
 
 </div>
 
