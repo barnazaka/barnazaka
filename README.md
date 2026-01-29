@@ -1,8 +1,28 @@
-<!-- HERO -->
+<!-- ========================= -->
+<!-- TERMINAL TYPING INTRO -->
+<!-- ========================= -->
+
 <div align="center">
 
-<h1 style="color:#22D3EE;">Barnabas Zakaria</h1>
-<p><strong>Full-Stack & Web3 Engineer</strong></p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=680&lines=%24+whoami;Barnabas+Zakaria;%24+role;Full-Stack+%7C+Web3+Engineer;%24+focus;Trust+Infrastructure+%26+Real-World+Systems"
+  alt="Terminal Typing Intro"
+/>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!-- WEB3 MATRIX GRID HERO -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img
+  src="https://svg-banners.vercel.app/api?type=origin&text1=Barnabas%20Zakaria&text2=Full-Stack%20%7C%20Web3%20Engineer&width=900&height=260&theme=dark&pattern=grid&color=22D3EE"
+  alt="Web3 Matrix Grid Banner"
+/>
 
 <p>
 Building <strong>trust-driven web systems</strong>, blockchain products, and developer tooling with real-world impact.
@@ -13,7 +33,7 @@ Building <strong>trust-driven web systems</strong>, blockchain products, and dev
   <img src="https://komarev.com/ghpvc/?username=barnazaka&label=Profile%20Views&color=22D3EE&style=flat" />
 </a>
 <a href="https://github.com/barnazaka?tab=followers">
-  <img src="https://img.shields.io/github/followers/barnazaka?label=Followers&style=flat&color=6366F1" />
+  <img src="https://img.shields.io/github/followers/barnazaka?label=Followers&color=6366F1&style=flat" />
 </a>
 <a href="mailto:barnazaka@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-22C55E?style=flat" />
@@ -22,53 +42,57 @@ Building <strong>trust-driven web systems</strong>, blockchain products, and dev
 
 </div>
 
-<!-- NEON WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:22d3ee&height=4"/>
 
 ---
 
 ## ABOUT
 
-I’m a developer focused on **shipping production systems**, not just demos.
+I’m a developer focused on **shipping production systems**, not demos.
 
-- Currently building **TrustWork**, a trust infrastructure platform  
-- Interested in **on-chain privacy**, **Web3 UX**, and **scalable frontend systems**  
+- Building **TrustWork**, a trust infrastructure platform  
+- Deep interest in **on-chain privacy**, **Web3 UX**, and **scalable frontend systems**  
 - Comfortable across product, infra, and protocol layers  
-- Strong believer in automation, clean abstractions, and fast iteration  
+- Strong believer in automation and clean abstractions  
 
-**Active Project:**  
+**Active project:**  
 → https://github.com/barnazaka/WTII
 
 ---
 
-<!-- SECTION DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:6366f1&height=3"/>
 
 ## FEATURED PROJECTS
 
+<!-- ========================= -->
+<!-- CUSTOM SVG REPO CARDS -->
+<!-- ========================= -->
+
 <div align="center">
 
 <a href="https://github.com/barnazaka/WTII">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=WTII&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=WTII&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=6366F1" />
 </a>
 
 <a href="https://github.com/barnazaka/maidride">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=maidride&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=maidride&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22D3EE" />
 </a>
 
 <a href="https://github.com/barnazaka/ZKShield">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=ZKShield&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=ZKShield&theme=transparent&hide_border=true&title_color=6366F1&icon_color=22C55E" />
 </a>
 
 <a href="https://github.com/barnazaka/calmbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=calmbot&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barnazaka&repo=calmbot&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22C55E" />
 </a>
 
 </div>
 
+> Repo cards are SVG-based and optimized for mobile.  
+> If GitHub rate-limits, they gracefully reload.
+
 ---
 
-<!-- NEON DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22c55e&height=3"/>
 
 ## STACK & TOOLS
@@ -103,37 +127,28 @@ Wallets · DID · ZK Proofs · Smart Contracts · On-chain UX
 
 ---
 
-<!-- SECTION WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0f172a&height=100"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0f172a&height=90"/>
 
 ## GITHUB STATS
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=barnazaka&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=6366F1"
-  width="100%"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnazaka&layout=compact&theme=transparent&hide_border=true&title_color=22C55E"
-  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=barnazaka&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=6366F1"
+  width="95%"
 />
 
 </div>
 
-> Stats are optimized for mobile. If they fail to load, GitHub API is rate-limited. Refresh later.
-
 ---
 
-<!-- ACTIVITY -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:6366f1&height=3"/>
-
-## ACTIVITY GRAPH
+## CONTRIBUTION HEATMAP (GLOW)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barnazaka&bg_color=transparent&color=22D3EE&line=6366F1&point=22C55E&hide_border=true"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=barnazaka&bg_color=transparent&color=22D3EE&line=6366F1&point=22C55E&hide_border=true"
+/>
 
 </div>
 
@@ -148,11 +163,7 @@ Wallets · DID · ZK Proofs · Smart Contracts · On-chain UX
 ---
 
 <div align="center">
-
 <strong>Building real systems. Shipping fast. Learning relentlessly.</strong>
-
 </div>
 
-<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=120&section=footer"/>
-```
