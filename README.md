@@ -1,27 +1,48 @@
-# hi
+# hi visitor
 
-i build stuff  
-sometimes it works  
+i write code
+it runs
+most times
 
-## what is here
-code  
-experiments  
-random ideas  
+## what is this
+
+stuff i built
+stuff i broke
+stuff i forgot about
 
 ## stack
-js  
-python  
-whatever gets it done  
 
-## usage
-clone it  
-run it  
-fix it if it breaks  
+js
+python
+google
+copy paste
 
-## notes
-no docs  
-no roadmap  
-no promises  
+## how to use
+
+clone it
+run it
+if it breaks
+congrats you found a feature
+
+## roadmap
+
+none
+vibes only
+
+## issues
+
+don’t open one
+i won’t see it
+
+## contributions
+
+why
+
+## license
+
+do what you want
+i’m not watching
 
 ## contact
-no
+
+don’t
