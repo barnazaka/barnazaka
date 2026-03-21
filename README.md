@@ -8,7 +8,7 @@
 
 - write code that works on the first try (sometimes)
 - fullstack dev. web3. AI. whatever needs building
-- Lagos based.
+- Citizen of the world
 
 ---
 
