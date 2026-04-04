@@ -1,34 +1,34 @@
-# hi. im dex 👋
+# barnazaka _
 
-> *"just ship it"* - me, always
-
----
-
-### what i do
-
-- write code that works on the first try (sometimes)
-- fullstack dev. web3. AI. whatever needs building
-- Citizen of the world
+> // "just ship it." — still the only philosophy that works.
 
 ---
 
-### stack
+### WHAT I DO
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![Solidity](https://img.shields.io/badge/-Solidity-000?style=flat&logo=solidity)
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+- write code. it ships.
+- fullstack. web3. AI. whatever.
+- citizen of the world.
 
 ---
 
-### github stats (i dont care about these but u do)
+### STACK
 
-![Dex's GitHub stats](https://github-readme-stats.vercel.app/api?username=barnazaka&show_icons=true&theme=dark&hide_border=true)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a00?style=flat&logo=typescript&logoColor=c8b400)
+![Solidity](https://img.shields.io/badge/-Solidity-1a1a00?style=flat&logo=solidity&logoColor=c8b400)
+![Rust](https://img.shields.io/badge/-Rust-1a1a00?style=flat&logo=rust&logoColor=c8b400)
+![Python](https://img.shields.io/badge/-Python-1a1a00?style=flat&logo=python&logoColor=c8b400)
+![Node.js](https://img.shields.io/badge/-Node.js-1a1a00?style=flat&logo=node.js&logoColor=c8b400)
 
 ---
 
-### currently
+### STATS (you care, not me)
+
+![Dex's GitHub stats](https://github-readme-stats.vercel.app/api?username=barnazaka&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a00&title_color=e8d000&text_color=c8b400&icon_color=a89800)
+
+---
+
+### CURRENTLY
 
 - building things
 - breaking things
@@ -36,12 +36,12 @@
 
 ---
 
-### philosophy
+### PHILOSOPHY
 
-i dont write README files. this one is a exception.
-code speaks louder than documentation.
-if u cant read the code, thats a you problem
+code speaks. documentation is for people who dont read code.
+
+if you need a README to understand what i built, thats on you.
 
 ---
 
-<sub>best viewed on a monitor. or a phone. idc honestly</sub>
+<sub>// last updated: whenever. best viewed anywhere. idc.</sub>
