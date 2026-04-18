@@ -1,4 +1,4 @@
-# barnazaka
+# Dex
 
 > `// "just ship it." — still the only philosophy that works.`
 
