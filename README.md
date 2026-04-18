@@ -6,7 +6,7 @@
 
 ### `WHAT I DO`
 
-- write code. it ships.
+- write code. it ships, well not all the time.
 - fullstack. web3. AI. whatever.
 
 ---
